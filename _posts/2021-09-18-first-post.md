@@ -1,7 +1,8 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2021-09-18 12:36:28 +0900
-category: [jekyll]
+categories:
+    - Jikyll
 tag: [HAFS, first, my, blog]
 ---
 나의 첫 지킬 블로그다. 이제 이 블로그는 내가 공부하고 계획하는 것을 아카이빙 할 목적으로 사용할 것이다. 또한 친한 친구들고 같이 공부한 내용을 올리고 공유하는 것이 목적이다. 
